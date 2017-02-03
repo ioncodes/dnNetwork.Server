@@ -7,5 +7,7 @@
     "mysql": "^2.13.0",
     "rand-token": "^0.3.0"
   },
-  "start": "node app.js"
+  "scripts": {
+    "start": "node app.js"
+  }
 }
